@@ -8,6 +8,7 @@ public class Test {
 		if(s.startsWith("23.")) {
 			String[] str = s.split("\\.");
 			System.out.println(str[str.length-1]);
+			System.out.println("sss");
 		}
 		
 	}
