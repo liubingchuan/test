@@ -9,5 +9,6 @@ public class Test {
 			String[] str = s.split("\\.");
 			System.out.println(str[str.length-1]);
 		}
+		
 	}
 }
